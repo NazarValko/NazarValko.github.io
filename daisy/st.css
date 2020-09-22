@@ -146,7 +146,11 @@ span {
     
 }
 
-
+.btn:hover {
+    background-color: #fc635e;
+    transition: 1s;
+    color: #fff;
+}
 .btn--long {
     min-width: 280px;
 }
@@ -280,6 +284,11 @@ span {
     font-weight: 100;
     text-decoration: none;
     text-align: center;   
+}
+.btn-2:hover {
+    background-color: #fc635e;
+    transition: 1s;
+    color: #fff;
 }
 .slider-expand {
   display: flex;
