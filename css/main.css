@@ -1,6 +1,7 @@
 
+
 .navbar{
-	background:#F97300;
+	background:#3E0062;
 }
 .nav-link , .navbar-brand{
 	color: #f4f4f4;
@@ -11,7 +12,7 @@
 }
 .nav-link:hover{
 	background: #f4f4f4;
-	color: #f97300;
+	color: #3E0062;
 
 }
 .navbar-collapse{
@@ -44,7 +45,7 @@
 
 }
 .description h1{
-	color:#F97300 ;
+	color:#3E0062 ;
 }
 .description p{
 	color:#666;
@@ -53,8 +54,8 @@
 	line-height: 1.5;
 }
 .description button{
-	border:1px  solid #F97300;
-	background:#F97300;
+	border:1px  solid #3E0062;
+	background:#3E0062;
 	color:#fff;
 }
 .about{
@@ -63,7 +64,7 @@
 	position: relative;
 }
 .about h1{
-	color:#F97300;
+	color:#3E0062;
 	margin: 2em;
 }
 .about img{
@@ -94,7 +95,7 @@
     position: relative;	
 }
 .portfolio h1{
-	color:#F97300;
+	color:#3E0062;
 	margin: 2em;	
 }
 .portfolio img{
@@ -111,7 +112,7 @@
 	position: relative;	
 }
 .blog h1{
-	color:#F97300;
+	color:#3E0062;
 	margin: 2em;	
 }
 .blog .card{
@@ -127,7 +128,7 @@
  }	
 }
 .blog .card-title{
-	color:#F97300;
+	color:#3E0062;
 	 
 }
 .blog .card-body{
@@ -139,7 +140,7 @@
 
 }
 .team h1{
-	color:#F97300;
+	color:#3E0062;
 	margin: 2em;	
 }
 .team .item{
@@ -147,7 +148,7 @@
 	overflow: hidden;	
 }
 .team .des{
-	background: #F97300;
+	background: #3E0062;
 	color: #fff;
 	text-align: center;
 	border-top-right-radius: 93%;
@@ -160,7 +161,8 @@
 }
 .team .item:hover .des{
 	height: 100%;
-	background:#f973007d;
+	background:#3E0062;
+	opacity: 0.7;
     position: absolute;
 	width: 89%;
 	padding: 5em;
@@ -174,13 +176,13 @@
 
 .contact-form h1{
 	padding:2em 1px;
-	color: #F97300; 
+	color: #3E0062; 
 }
 .contact-form .right{
 	max-width: 600px;
 }
 .contact-form .right .btn-secondary{
-	background:  #F97300;
+	background:  #3E0062;
 	color: #fff;
 	border:0;
 }
